@@ -60,15 +60,6 @@ Facilitar la comunicación entre personas con TEA y sus cuidadores mediante una 
 
 ---
 
-## 🧩 Estructura del Proyecto
-
-- `/hardware` → Diseños y esquemas eléctricos (Tinkercad / SketchUp)  
-- `/app` → Archivos y bloques de la aplicación App Inventor  
-- `/docs` → Documentación, memoria técnica y presupuesto  
-- `/media` → Fotos, logotipos y vídeos de presentación  
-
----
-
 ## 🧪 Proceso de Fabricación
 
 1. Diseño del circuito y pruebas en Tinkercad.  
